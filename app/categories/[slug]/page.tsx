@@ -7,7 +7,7 @@ import { findCategoryBySlug, getProductsByCategoryId } from '@/lib/data';
 import { Badge } from '@heroui/badge';
 
 type Props = {
-    params: { slug: string };
+    params: Promise<{ slug: string }>;
 };
 
 export default async function CategoryPage({ params }: Props) {

@@ -23,8 +23,7 @@ export default function ProductCard({ product }: Props) {
     const handleCartOnClick = () => {
         if (!product.inStock) return;
         addItem({
-            id: product.id,
-            quantity: 1,
+            id: product.id
         });
         setShowAlert(true);
 
