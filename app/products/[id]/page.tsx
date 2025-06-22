@@ -9,11 +9,11 @@ import useCart from '@/lib/useCart';
 import ProductView from '@/components/products/product-view';
 
 type Props = {
-    params: { id: string };
+    params: Promise<{ id: string }>;
 };
 
 export default async function ProductPage({ params }: Props) {
-    const id = await parseInt(params.id);
+    const id = await params.then(p => parseInt(p.id));
     const product = getProductById(id);
 
     if (!product) return notFound();
