@@ -1,5 +1,8 @@
-import { SVGProps } from "react";
+export type Category = {
+    id: number;
+    name: string;
+    description: string;
+    emoji: string;
+}
 
-export type IconSvgProps = SVGProps<SVGSVGElement> & {
-  size?: number;
-};
+export type { Product } from './product'

@@ -1,56 +1,30 @@
-import { Link } from "@heroui/link";
-import { Snippet } from "@heroui/snippet";
-import { Code } from "@heroui/code";
-import { button as buttonStyles } from "@heroui/theme";
+'use client';
 
-import { siteConfig } from "@/config/site";
-import { title, subtitle } from "@/components/primitives";
-import { GithubIcon } from "@/components/icons";
+import { Card, CardHeader, CardBody } from "@heroui/card";
+import { Button } from "@heroui/button";
+import { Divider } from "@heroui/divider";
+import { Moon } from "lucide-react";
+import CategoriesList from "@/components/categories/categories-list";
+import { Badge } from "@heroui/badge";
 
-export default function Home() {
+
+export default function HomePage() {
   return (
-    <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
-      <div className="inline-block max-w-xl text-center justify-center">
-        <span className={title()}>Make&nbsp;</span>
-        <span className={title({ color: "violet" })}>beautiful&nbsp;</span>
-        <br />
-        <span className={title()}>
-          websites regardless of your design experience.
-        </span>
-        <div className={subtitle({ class: "mt-4" })}>
-          Beautiful, fast and modern React UI library.
-        </div>
+    <section className='py-10 max-w-6xl mx-auto px-4 space-y-10'>
+      {/* Hero */}
+      <div className='text-center space-y-4'>
+        <h1 className='text-4xl font-bold tracking-tight'>Welcome to ShopEase 🛍️</h1>
+        <p className='text-lg text-default-500'>Shop your favorite products delivered right to your door.</p>
       </div>
 
-      <div className="flex gap-3">
-        <Link
-          isExternal
-          className={buttonStyles({
-            color: "primary",
-            radius: "full",
-            variant: "shadow",
-          })}
-          href={siteConfig.links.docs}
-        >
-          Documentation
-        </Link>
-        <Link
-          isExternal
-          className={buttonStyles({ variant: "bordered", radius: "full" })}
-          href={siteConfig.links.github}
-        >
-          <GithubIcon size={20} />
-          GitHub
-        </Link>
+      <Divider />
+
+      {/* Featured products placeholder */}
+      <div>
+        <h3 className="mb-5 text-xl text-center">Browse our categories</h3>
+        <CategoriesList />
       </div>
 
-      <div className="mt-8">
-        <Snippet hideCopyButton hideSymbol variant="bordered">
-          <span>
-            Get started by editing <Code color="primary">app/page.tsx</Code>
-          </span>
-        </Snippet>
-      </div>
     </section>
   );
 }

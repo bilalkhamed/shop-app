@@ -1,0 +1,632 @@
+[
+    {
+        "id": 1,
+        "categoryId": 1,
+        "name": "Smartphone X",
+        "short_description": "The latest and greatest smartphone.",
+        "long_description": "Experience the future with the Smartphone X. Featuring a stunning OLED display, a powerful A18 Bionic chip, and a professional-grade camera system. It's the most powerful and intuitive smartphone we've ever made.",
+        "rating": 4.8,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 2,
+        "categoryId": 1,
+        "name": "Noise-Cancelling Headphones",
+        "short_description": "Immerse yourself in sound.",
+        "long_description": "These headphones feature industry-leading noise cancellation that intelligently adapts to your environment. Enjoy crystal-clear audio for music, calls, and everything in between. With a comfortable, lightweight design, they're perfect for all-day wear.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 3,
+        "categoryId": 1,
+        "name": "4K Ultra HD Smart TV",
+        "short_description": "Bring the cinema to your living room.",
+        "long_description": "This 65-inch 4K Ultra HD Smart TV delivers breathtaking picture quality and vibrant colors. With built-in streaming apps, you'll have access to all your favorite shows and movies. The sleek, modern design will complement any home decor.",
+        "rating": 4.7,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 4,
+        "categoryId": 1,
+        "name": "Wireless Charger",
+        "short_description": "Charge your devices with ease.",
+        "long_description": "Say goodbye to tangled cables with this sleek and powerful wireless charger. It's compatible with all Qi-enabled devices and provides fast, efficient charging. The non-slip surface ensures your device stays in place.",
+        "rating": 4.2,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 5,
+        "categoryId": 1,
+        "name": "Portable Bluetooth Speaker",
+        "short_description": "Take your music anywhere.",
+        "long_description": "This compact and portable Bluetooth speaker delivers surprisingly powerful sound. It's waterproof and dustproof, making it perfect for outdoor adventures. The long-lasting battery provides up to 12 hours of playtime.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 6,
+        "categoryId": 1,
+        "name": "Gaming Mouse",
+        "short_description": "Precision and speed for serious gamers.",
+        "long_description": "Gain a competitive edge with this high-performance gaming mouse. It features a high-precision optical sensor, customizable buttons, and RGB lighting. The ergonomic design ensures comfort during long gaming sessions.",
+        "rating": 4.9,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 7,
+        "categoryId": 1,
+        "name": "Smartwatch Series 9",
+        "short_description": "Stay connected and track your fitness.",
+        "long_description": "The Smartwatch Series 9 is your ultimate companion for a healthy and connected life. Track your workouts, monitor your health, and stay on top of notifications with this stylish and powerful smartwatch. It's water-resistant and has a long-lasting battery.",
+        "rating": 4.7,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 8,
+        "categoryId": 1,
+        "name": "Laptop Pro",
+        "short_description": "Powerful performance for professionals.",
+        "long_description": "The Laptop Pro is designed for professionals who demand the best. It features a powerful M3 chip, a stunning Retina display, and a comfortable keyboard. With all-day battery life, you can work from anywhere.",
+        "rating": 4.8,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 9,
+        "categoryId": 1,
+        "name": "Digital Camera",
+        "short_description": "Capture life's moments in stunning detail.",
+        "long_description": "This digital camera features a 24.2MP sensor and a versatile zoom lens, allowing you to capture stunning photos and videos. The intuitive controls make it easy for beginners, while the advanced features will satisfy experienced photographers.",
+        "rating": 4.4,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 10,
+        "categoryId": 1,
+        "name": "E-Reader",
+        "short_description": "Carry your library in one hand.",
+        "long_description": "The E-Reader features a high-resolution, glare-free display that reads like real paper, even in direct sunlight. With a long-lasting battery and space for thousands of books, it's the perfect device for book lovers.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 11,
+        "categoryId": 2,
+        "name": "Classic T-Shirt",
+        "short_description": "A timeless wardrobe staple.",
+        "long_description": "This classic t-shirt is made from soft, breathable cotton for all-day comfort. It features a classic crew neck and a regular fit. Perfect for layering or wearing on its own.",
+        "rating": 4.3,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 12,
+        "categoryId": 2,
+        "name": "Denim Jeans",
+        "short_description": "The perfect pair of jeans.",
+        "long_description": "These denim jeans are crafted from high-quality denim with a hint of stretch for comfort. They feature a classic five-pocket design and a slim fit. A versatile addition to any wardrobe.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 13,
+        "categoryId": 2,
+        "name": "Hooded Sweatshirt",
+        "short_description": "Stay warm and comfortable.",
+        "long_description": "This hooded sweatshirt is made from a soft fleece fabric for ultimate comfort. It features a drawstring hood, a kangaroo pocket, and ribbed cuffs and hem. Perfect for casual wear.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 14,
+        "categoryId": 2,
+        "name": "Leather Jacket",
+        "short_description": "An iconic and stylish jacket.",
+        "long_description": "This classic leather jacket is made from genuine leather for a luxurious feel. It features an asymmetrical zip fastening, zippered cuffs, and multiple pockets. A timeless piece that will never go out of style.",
+        "rating": 4.8,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 15,
+        "categoryId": 2,
+        "name": "Running Shoes",
+        "short_description": "Lightweight and responsive running shoes.",
+        "long_description": "These running shoes are designed for comfort and performance. They feature a breathable mesh upper, a cushioned midsole, and a durable rubber outsole. Perfect for your daily run or a session at the gym.",
+        "rating": 4.7,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 16,
+        "categoryId": 2,
+        "name": "Summer Dress",
+        "short_description": "A light and breezy summer dress.",
+        "long_description": "This beautiful summer dress is made from a lightweight and breathable fabric. It features a floral print, a V-neckline, and a flattering A-line silhouette. Perfect for warm weather.",
+        "rating": 4.4,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 17,
+        "categoryId": 2,
+        "name": "Formal Suit",
+        "short_description": "A sharp and sophisticated suit.",
+        "long_description": "This formal suit is expertly tailored for a sharp and modern fit. It includes a single-breasted jacket and matching trousers. Made from a high-quality wool blend, it's perfect for business meetings or special occasions.",
+        "rating": 4.9,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 18,
+        "categoryId": 2,
+        "name": "Winter Coat",
+        "short_description": "Stay warm in style.",
+        "long_description": "This winter coat is designed to keep you warm in the coldest weather. It features a waterproof outer shell, a down-filled insulation, and a faux-fur trimmed hood. Multiple pockets provide ample storage.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 19,
+        "categoryId": 2,
+        "name": "Beanie Hat",
+        "short_description": "A cozy and stylish beanie.",
+        "long_description": "This beanie hat is made from a soft and warm ribbed knit. It features a classic design with a turned-up cuff. A must-have accessory for cold weather.",
+        "rating": 4.2,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 20,
+        "categoryId": 2,
+        "name": "Sunglasses",
+        "short_description": "Protect your eyes in style.",
+        "long_description": "These sunglasses feature a timeless design with a modern twist. The polarized lenses provide 100% UV protection. The lightweight frame ensures a comfortable fit.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 21,
+        "categoryId": 3,
+        "name": "Coffee Maker",
+        "short_description": "Brew the perfect cup of coffee.",
+        "long_description": "This coffee maker allows you to brew your favorite coffee just the way you like it. It features a programmable timer, a keep-warm function, and a reusable filter. The sleek design will look great on your countertop.",
+        "rating": 4.4,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 22,
+        "categoryId": 3,
+        "name": "Blender",
+        "short_description": "Create smoothies, sauces, and more.",
+        "long_description": "This powerful blender can handle all your blending needs. It features multiple speeds, a large-capacity jar, and stainless steel blades. The dishwasher-safe parts make cleanup a breeze.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 23,
+        "categoryId": 3,
+        "name": "Cookware Set",
+        "short_description": "A complete set of pots and pans.",
+        "long_description": "This cookware set includes everything you need to cook delicious meals. The non-stick coating ensures easy food release and cleanup. The set is compatible with all stovetops, including induction.",
+        "rating": 4.7,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 24,
+        "categoryId": 3,
+        "name": "Air Fryer",
+        "short_description": "Enjoy crispy food with less oil.",
+        "long_description": "This air fryer uses hot air circulation to cook your favorite foods to crispy perfection with little to no oil. It features a digital touchscreen with preset cooking programs. A healthier way to fry.",
+        "rating": 4.8,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 25,
+        "categoryId": 3,
+        "name": "Robot Vacuum",
+        "short_description": "Keep your floors clean without lifting a finger.",
+        "long_description": "This robot vacuum intelligently navigates your home, cleaning dirt, dust, and pet hair. It can be controlled via a smartphone app and is compatible with voice assistants. Spend less time cleaning and more time enjoying your home.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 26,
+        "categoryId": 3,
+        "name": "Bed Sheet Set",
+        "short_description": "Soft and comfortable bed sheets.",
+        "long_description": "This bed sheet set is made from high-quality microfiber for a soft and luxurious feel. The set includes a flat sheet, a fitted sheet, and two pillowcases. The wrinkle-resistant fabric is easy to care for.",
+        "rating": 4.3,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 27,
+        "categoryId": 3,
+        "name": "Standing Desk",
+        "short_description": "Improve your posture and productivity.",
+        "long_description": "This adjustable standing desk allows you to easily switch between sitting and standing. The spacious work surface provides plenty of room for your computer and other essentials. A great way to stay active while you work.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 28,
+        "categoryId": 3,
+        "name": "Food Storage Containers",
+        "short_description": "Keep your food fresh and organized.",
+        "long_description": "This set of food storage containers is perfect for meal prep and leftovers. The airtight lids keep food fresh for longer. The containers are stackable for easy storage and are microwave and dishwasher safe.",
+        "rating": 4.2,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 29,
+        "categoryId": 3,
+        "name": "Electric Kettle",
+        "short_description": "Boil water quickly and safely.",
+        "long_description": "This electric kettle boils water faster than a microwave and is safer than a stovetop kettle. It features an automatic shut-off and boil-dry protection. The cordless design makes it easy to pour.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 30,
+        "categoryId": 3,
+        "name": "Wall Art",
+        "short_description": "Add a touch of style to your walls.",
+        "long_description": "This beautiful piece of wall art will add a modern and elegant touch to any room. The high-quality print is on a stretched canvas and is ready to hang. A great way to personalize your space.",
+        "rating": 4.4,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 31,
+        "categoryId": 4,
+        "name": "The Alchemist",
+        "short_description": "A classic novel about following your dreams.",
+        "long_description": "'The Alchemist' by Paulo Coelho is an allegorical novel which tells the story of Santiago, an Andalusian shepherd boy who dreams of a treasure at the Egyptian pyramids. His journey teaches us about the importance of following our dreams and listening to our hearts.",
+        "rating": 4.7,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 32,
+        "categoryId": 4,
+        "name": "Sapiens: A Brief History of Humankind",
+        "short_description": "A thought-provoking look at human history.",
+        "long_description": "In 'Sapiens,' Dr. Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical breakthroughs of the Cognitive, Agricultural, and Scientific Revolutions. This book will challenge your perceptions of what it means to be human.",
+        "rating": 4.8,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 33,
+        "categoryId": 4,
+        "name": "The Lord of the Rings",
+        "short_description": "An epic high-fantasy novel.",
+        "long_description": "'The Lord of the Rings' by J.R.R. Tolkien is an epic high-fantasy novel. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written.",
+        "rating": 4.9,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 34,
+        "categoryId": 4,
+        "name": "To Kill a Mockingbird",
+        "short_description": "A classic of modern American literature.",
+        "long_description": "'To Kill a Mockingbird' by Harper Lee is a novel about the seriousness of racism and the innocence of youth. The novel is renowned for its warmth and humor, despite dealing with the serious issues of rape and racial inequality. The book was an immediate success, winning the Pulitzer Prize, and has become a classic of modern American literature.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 35,
+        "categoryId": 4,
+        "name": "1984",
+        "short_description": "A dystopian novel by George Orwell.",
+        "long_description": "Nineteen Eighty-Four, often published as 1984, is a dystopian novel by English writer George Orwell published in June 1949. The novel is set in Airstrip One, formerly Great Britain, a province of the superstate Oceania, whose residents are victims of perpetual war, omnipresent government surveillance, and public manipulation.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 36,
+        "categoryId": 4,
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "short_description": "A comedy science fiction series.",
+        "long_description": "'The Hitchhiker's Guide to the Galaxy' is a comedy science fiction series created by Douglas Adams. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, including stage shows, novels, comic books, a 1981 TV series, a 1984 computer game, and 2005 feature film.",
+        "rating": 4.4,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 37,
+        "categoryId": 4,
+        "name": "Pride and Prejudice",
+        "short_description": "A romantic novel by Jane Austen.",
+        "long_description": "'Pride and Prejudice' is a romantic novel of manners written by Jane Austen in 1813. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 38,
+        "categoryId": 4,
+        "name": "The Great Gatsby",
+        "short_description": "A novel by F. Scott Fitzgerald.",
+        "long_description": "'The Great Gatsby' is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, the novel depicts narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former love, Daisy Buchanan.",
+        "rating": 4.3,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 39,
+        "categoryId": 4,
+        "name": "Moby-Dick",
+        "short_description": "A novel by Herman Melville.",
+        "long_description": "'Moby-Dick; or, The Whale' is an 1851 novel by American writer Herman Melville. The book is the sailor Ishmael's narrative of the obsessive quest of Ahab, captain of the whaling ship Pequod, for revenge on Moby Dick, the giant white sperm whale that on the ship's previous voyage bit off Ahab's leg at the knee.",
+        "rating": 4.1,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 40,
+        "categoryId": 4,
+        "name": "War and Peace",
+        "short_description": "A novel by Leo Tolstoy.",
+        "long_description": "'War and Peace' is a novel by the Russian author Leo Tolstoy, first published in its entirety in 1869. It is regarded as one of Tolstoy's finest literary achievements and remains a classic of world literature. The novel chronicles the history of the French invasion of Russia and the impact of the Napoleonic era on Tsarist society through the stories of five Russian aristocratic families.",
+        "rating": 4.2,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 41,
+        "categoryId": 5,
+        "name": "Yoga Mat",
+        "short_description": "A comfortable and non-slip yoga mat.",
+        "long_description": "This yoga mat provides a comfortable and stable surface for your yoga practice. The non-slip texture ensures a secure grip, and the lightweight design makes it easy to transport. Made from eco-friendly materials.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 42,
+        "categoryId": 5,
+        "name": "Dumbbell Set",
+        "short_description": "A versatile set of dumbbells.",
+        "long_description": "This dumbbell set is perfect for a full-body workout. The set includes multiple weight options, allowing you to customize your workout. The non-slip grip ensures a secure hold during your exercises.",
+        "rating": 4.7,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 43,
+        "categoryId": 5,
+        "name": "Hiking Backpack",
+        "short_description": "A durable and comfortable backpack.",
+        "long_description": "This hiking backpack is designed for comfort and durability on the trail. It features a large main compartment, multiple pockets, and a hydration reservoir sleeve. The padded shoulder straps and back panel provide excellent support.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 44,
+        "categoryId": 5,
+        "name": "Tent",
+        "short_description": "A spacious and easy-to-set-up tent.",
+        "long_description": "This tent is perfect for camping trips with family and friends. It's spacious enough to sleep up to four people and is easy to set up and take down. The waterproof material will keep you dry in any weather.",
+        "rating": 4.4,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 45,
+        "categoryId": 5,
+        "name": "Bicycle",
+        "short_description": "A versatile and reliable bicycle.",
+        "long_description": "This bicycle is perfect for commuting, exercise, or weekend rides. It features a lightweight aluminum frame, a comfortable saddle, and a reliable gear system. The powerful brakes provide excellent stopping power.",
+        "rating": 4.8,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 46,
+        "categoryId": 5,
+        "name": "Fishing Rod",
+        "short_description": "A high-quality fishing rod.",
+        "long_description": "This fishing rod is designed for both beginners and experienced anglers. The lightweight and sensitive blank allows you to feel even the slightest bites. The comfortable handle provides a secure grip.",
+        "rating": 4.3,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 47,
+        "categoryId": 5,
+        "name": "Sleeping Bag",
+        "short_description": "Stay warm and cozy on your camping trips.",
+        "long_description": "This sleeping bag is designed to keep you warm and comfortable in a variety of temperatures. The soft lining and synthetic insulation provide excellent warmth. The mummy shape helps to retain heat.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 48,
+        "categoryId": 5,
+        "name": "Camping Stove",
+        "short_description": "A compact and powerful camping stove.",
+        "long_description": "This camping stove is perfect for cooking delicious meals in the great outdoors. The powerful burner boils water quickly, and the adjustable flame control allows for precise cooking. The compact design makes it easy to pack.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 49,
+        "categoryId": 5,
+        "name": "Kayak",
+        "short_description": "Explore the water with this stable and maneuverable kayak.",
+        "long_description": "This kayak is perfect for recreational paddling on lakes and rivers. The stable design makes it easy for beginners to use, while the maneuverability will be appreciated by more experienced paddlers. The comfortable seat and adjustable footrests provide a custom fit.",
+        "rating": 4.7,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 50,
+        "categoryId": 5,
+        "name": "Climbing Harness",
+        "short_description": "A safe and comfortable climbing harness.",
+        "long_description": "This climbing harness is designed for all-around performance. The adjustable leg loops and waist belt provide a comfortable and secure fit. The durable construction and multiple gear loops make it perfect for sport climbing and mountaineering.",
+        "rating": 4.8,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 51,
+        "categoryId": 6,
+        "name": "Facial Cleanser",
+        "short_description": "A gentle and effective facial cleanser.",
+        "long_description": "This facial cleanser gently removes dirt, oil, and makeup without stripping the skin's natural moisture. The formula is suitable for all skin types and leaves your skin feeling clean, soft, and refreshed.",
+        "rating": 4.4,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 52,
+        "categoryId": 6,
+        "name": "Moisturizer",
+        "short_description": "Hydrate and nourish your skin.",
+        "long_description": "This daily moisturizer provides long-lasting hydration to keep your skin feeling soft and supple. The lightweight, non-greasy formula absorbs quickly and is suitable for all skin types. It helps to improve the skin's texture and appearance.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 53,
+        "categoryId": 6,
+        "name": "Sunscreen",
+        "short_description": "Protect your skin from the sun's harmful rays.",
+        "long_description": "This broad-spectrum sunscreen provides SPF 50 protection against UVA and UVB rays. The lightweight, non-greasy formula is water-resistant and suitable for all skin types. It helps to prevent sunburn and reduce the risk of skin cancer.",
+        "rating": 4.7,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 54,
+        "categoryId": 6,
+        "name": "Shampoo",
+        "short_description": "Cleanse and nourish your hair.",
+        "long_description": "This shampoo is formulated to gently cleanse your hair while providing essential nutrients. It helps to strengthen and repair damaged hair, leaving it feeling soft, smooth, and manageable. Suitable for all hair types.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 55,
+        "categoryId": 6,
+        "name": "Conditioner",
+        "short_description": "Hydrate and detangle your hair.",
+        "long_description": "This conditioner provides intense hydration to leave your hair feeling soft, smooth, and manageable. It helps to detangle and reduce frizz, leaving your hair looking healthy and shiny. Suitable for all hair types.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 56,
+        "categoryId": 6,
+        "name": "Electric Toothbrush",
+        "short_description": "Achieve a superior clean.",
+        "long_description": "This electric toothbrush removes more plaque than a manual toothbrush for a healthier mouth. It features multiple brushing modes, a pressure sensor, and a built-in timer to ensure you brush for the recommended two minutes.",
+        "rating": 4.8,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 57,
+        "categoryId": 6,
+        "name": "Makeup Foundation",
+        "short_description": "Create a flawless complexion.",
+        "long_description": "This makeup foundation provides buildable coverage for a natural-looking finish. The lightweight formula blends seamlessly into the skin and helps to even out skin tone and conceal imperfections. Available in a wide range of shades.",
+        "rating": 4.3,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 58,
+        "categoryId": 6,
+        "name": "Mascara",
+        "short_description": "For longer, fuller lashes.",
+        "long_description": "This mascara adds volume and length to your lashes for a dramatic look. The clump-free formula is long-lasting and easy to remove. The specially designed brush coats every lash from root to tip.",
+        "rating": 4.2,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 59,
+        "categoryId": 6,
+        "name": "Lipstick",
+        "short_description": "A bold and beautiful lipstick.",
+        "long_description": "This lipstick provides rich, vibrant color with a comfortable, long-lasting wear. The creamy formula glides on smoothly and keeps your lips feeling hydrated. Available in a variety of shades and finishes.",
+        "rating": 4.4,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 60,
+        "categoryId": 6,
+        "name": "Fragrance",
+        "short_description": "A captivating and elegant fragrance.",
+        "long_description": "This fragrance features a blend of floral and woody notes to create a captivating and elegant scent. It's perfect for special occasions or everyday wear. The long-lasting formula will keep you smelling great all day.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 61,
+        "categoryId": 7,
+        "name": "Building Blocks",
+        "short_description": "A classic toy for creative building.",
+        "long_description": "This set of building blocks provides endless opportunities for creative play. The colorful blocks are easy for small hands to handle and can be used to build anything your child can imagine. A great toy for developing fine motor skills and spatial reasoning.",
+        "rating": 4.9,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 62,
+        "categoryId": 7,
+        "name": "Board Game",
+        "short_description": "A fun and strategic board game.",
+        "long_description": "This board game is perfect for family game night. It's a game of strategy and luck that will keep everyone entertained for hours. The game includes a game board, playing pieces, and dice. Suitable for ages 8 and up.",
+        "rating": 4.7,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 63,
+        "categoryId": 7,
+        "name": "Puzzle",
+        "short_description": "A challenging and rewarding puzzle.",
+        "long_description": "This 1000-piece puzzle features a beautiful and intricate design. It's a great way to relax and challenge your mind. The high-quality pieces fit together perfectly. A fun activity for individuals or families.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 64,
+        "categoryId": 7,
+        "name": "Action Figure",
+        "short_description": "A detailed and articulated action figure.",
+        "long_description": "This action figure is a must-have for any collector. It features a detailed sculpt and multiple points of articulation, allowing for a wide range of poses. The figure comes with several accessories.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 65,
+        "categoryId": 7,
+        "name": "Doll",
+        "short_description": "A beautiful and stylish doll.",
+        "long_description": "This doll features a beautiful and detailed outfit, rooted hair, and multiple points of articulation. She comes with several accessories for imaginative play. A great gift for any doll lover.",
+        "rating": 4.4,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 66,
+        "categoryId": 7,
+        "name": "Remote Control Car",
+        "short_description": "A fast and fun remote control car.",
+        "long_description": "This remote control car is built for speed and performance. The durable construction can handle rough terrain, and the responsive remote control provides precise handling. It's a thrilling toy for kids and adults alike.",
+        "rating": 4.3,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 67,
+        "categoryId": 7,
+        "name": "Art Set",
+        "short_description": "A complete set for aspiring artists.",
+        "long_description": "This art set includes everything you need to create your own masterpieces. It comes with a variety of art supplies, including crayons, markers, colored pencils, and paints. The set is neatly organized in a convenient carrying case.",
+        "rating": 4.6,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 68,
+        "categoryId": 7,
+        "name": "Science Kit",
+        "short_description": "A fun and educational science kit.",
+        "long_description": "This science kit allows you to conduct a variety of fun and educational experiments. It's a great way to learn about science and chemistry in a hands-on way. The kit includes all the necessary materials and instructions.",
+        "rating": 4.7,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 69,
+        "categoryId": 7,
+        "name": "Musical Instrument",
+        "short_description": "A great first musical instrument.",
+        "long_description": "This musical instrument is perfect for beginners. It's easy to learn and play, and it's a great way to introduce children to the world of music. The instrument is made from high-quality materials and has a beautiful sound.",
+        "rating": 4.5,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    },
+    {
+        "id": 70,
+        "categoryId": 7,
+        "name": "Stuffed Animal",
+        "short_description": "A soft and cuddly stuffed animal.",
+        "long_description": "This stuffed animal is made from ultra-soft plush material, making it perfect for cuddling. It's a great companion for children of all ages. The high-quality construction ensures that it will last for years to come.",
+        "rating": 4.8,
+        "image_url": "https://i0.wp.com/mikeyarce.com/wp-content/uploads/2021/09/woocommerce-placeholder.png"
+    }
+]
